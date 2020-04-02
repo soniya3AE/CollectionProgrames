@@ -8,7 +8,7 @@ public class ArrayListDemo{
 	   ArrayList <String> alist = new ArrayList <String>();
 	   
 	   System.out.println("The add the items to ArrayList");
-	   alist.add("Name: Soniya");
+	   alist.add("Name: soniya k");
 	   alist.add("Designation : Quality Assurance Engineer");
 	   alist.add("Family Name:Kamble");
 	   System.out .println("After adding element to the ArrayList items are:"+ alist);
